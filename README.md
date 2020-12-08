@@ -14,4 +14,4 @@ you'll be creating yourself during the tutorial and the `scripts` subdirectory
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline. 
 
-Made some changes to trigger a build.
+Made some new changes to trigger a build.
